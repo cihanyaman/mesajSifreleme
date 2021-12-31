@@ -1,0 +1,29 @@
+C:\Users\O.F.Y\source\C# Projeler\Spn-16 Sifreleme\Encryption\obj\Debug\Encryption.csprojAssemblyReference.cache
+C:\Users\O.F.Y\source\C# Projeler\Spn-16 Sifreleme\Encryption\obj\Debug\Encryption.Form1.resources
+C:\Users\O.F.Y\source\C# Projeler\Spn-16 Sifreleme\Encryption\obj\Debug\SPN_16_Sifreleme.Properties.Resources.resources
+C:\Users\O.F.Y\source\C# Projeler\Spn-16 Sifreleme\Encryption\obj\Debug\Encryption.csproj.GenerateResource.cache
+C:\Users\O.F.Y\source\C# Projeler\Spn-16 Sifreleme\Encryption\obj\Debug\Encryption.csproj.CoreCompileInputs.cache
+C:\Users\O.F.Y\source\C# Projeler\Spn-16 Sifreleme\Encryption\obj\Debug\SPN-16 Sifreleme.exe
+C:\Users\O.F.Y\source\C# Projeler\Spn-16 Sifreleme\Encryption\obj\Debug\SPN-16 Sifreleme.pdb
+C:\Users\O.F.Y\source\C# Projeler\Spn-16 Sifreleme\Encryption\bin\Debug\SPN-16 Sifreleme.exe.config
+C:\Users\O.F.Y\source\C# Projeler\Spn-16 Sifreleme\Encryption\bin\Debug\SPN-16 Sifreleme.exe
+C:\Users\O.F.Y\source\C# Projeler\Spn-16 Sifreleme\Encryption\bin\Debug\SPN-16 Sifreleme.pdb
+C:\Users\LENOVO\Desktop\Spn-16-Sha-256-Encryption--main\Encryption\bin\Debug\SPN-16 Sifreleme.exe.config
+C:\Users\LENOVO\Desktop\Spn-16-Sha-256-Encryption--main\Encryption\bin\Debug\SPN-16 Sifreleme.exe
+C:\Users\LENOVO\Desktop\Spn-16-Sha-256-Encryption--main\Encryption\bin\Debug\SPN-16 Sifreleme.pdb
+C:\Users\LENOVO\Desktop\Spn-16-Sha-256-Encryption--main\Encryption\obj\Debug\Encryption.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Spn-16-Sha-256-Encryption--main\Encryption\obj\Debug\Encryption.Form1.resources
+C:\Users\LENOVO\Desktop\Spn-16-Sha-256-Encryption--main\Encryption\obj\Debug\SPN_16_Sifreleme.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Spn-16-Sha-256-Encryption--main\Encryption\obj\Debug\Encryption.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\Spn-16-Sha-256-Encryption--main\Encryption\obj\Debug\Encryption.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Spn-16-Sha-256-Encryption--main\Encryption\obj\Debug\SPN-16 Sifreleme.exe
+C:\Users\LENOVO\Desktop\Spn-16-Sha-256-Encryption--main\Encryption\obj\Debug\SPN-16 Sifreleme.pdb
+C:\Users\LENOVO\Desktop\Spn-16-Sha-256-Encryption--main\Encryption\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\LENOVO\Desktop\Spn-16-Sha-256-Encryption--main\Encryption\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\LENOVO\Desktop\Spn-16-Sha-256-Encryption--main\Encryption\bin\Debug\nunit.engine.dll
+C:\Users\LENOVO\Desktop\Spn-16-Sha-256-Encryption--main\Encryption\bin\Debug\nunit.engine.api.dll
+C:\Users\LENOVO\Desktop\Spn-16-Sha-256-Encryption--main\Encryption\bin\Debug\nunit.engine.core.dll
+C:\Users\LENOVO\Desktop\Spn-16-Sha-256-Encryption--main\Encryption\bin\Debug\testcentric.engine.metadata.dll
+C:\Users\LENOVO\Desktop\Spn-16-Sha-256-Encryption--main\Encryption\bin\Debug\nunit.framework.dll
+C:\Users\LENOVO\Desktop\Spn-16-Sha-256-Encryption--main\Encryption\bin\Debug\nunit.framework.xml
+C:\Users\LENOVO\Desktop\Spn-16-Sha-256-Encryption--main\Encryption\obj\Debug\Encryption.csproj.CopyComplete
